@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Currently I'm a junior data scientist working at [Equinox AI Lab](https://equinoxailab.ai/). I'm an electronics engineer from the Pontificia Universidad Javeriana, where my interest for AI and Digital signals grew, and now I'm working on one of those.
+I'm a junior data scientist working at [Equinox AI Lab](https://equinoxailab.ai/). I'm an electronics engineer from the Pontificia Universidad Javeriana, where my interest for AI and Digital signals grew, and now I'm working on one of those.
 
 - 🌱 I’m currently learning about ML algorithms
 - 💬 Ask me about electronics, audio and music. (I made a project for my final year at uni with audio and neural networks: [Audio Inteligente]( https://github.com/juancas9812/TG_Audio_Inteligente)
